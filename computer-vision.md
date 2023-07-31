@@ -1,3 +1,5 @@
+# Computer Vision Taxonomy
+
 ## Classical machine learning
 
 1. **Scale-Invariant Feature Transform (SIFT)**
