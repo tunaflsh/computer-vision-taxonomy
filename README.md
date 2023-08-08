@@ -34,3 +34,5 @@ While these techniques might be relevant for learning purposes, they are not use
 5. **Vision Permutator: MLP-Like Architecture**
 6. **GAN**
 7. **Diffusion**
+
+## Feature extraction
