@@ -34,5 +34,8 @@ While these techniques might be relevant for learning purposes, they are not use
 5. **Vision Permutator: MLP-Like Architecture**
 6. **GAN**
 7. **Diffusion**
+8. **Tracking**
+    - **Key Points**
+    - [**CoTracker**](https://co-tracker.github.io/)
 
 ## Feature extraction
